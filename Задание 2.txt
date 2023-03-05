@@ -1,9 +1,9 @@
 1.1. Для начала, я узнаю встречались ли такие проблемы у других людей. На некоторых форумах есть обсуждения этого вопроса. Там можно узнать, что пробовал человек для
 решения проблемы. Также есть несколько статей, которые описывают данную тему. Вот некоторые из низ: 
 
-https://generd.ru/fix/kak-ispravit-igru-steam-kotoraya-mgnovenno-zakryvaetsya/?plain=1
-https://kompyutery-programmy.ru/sistema/igra-v-stime-zapuskaetsya-i-srazu-zakryvaetsya-windows-10.html?plain=1
-https://windowsreport.com/steam-game-instantly-closes/?plain=1
+https://generd.ru/fix/kak-ispravit-igru-steam-kotoraya-mgnovenno-zakryvaetsya/
+https://kompyutery-programmy.ru/sistema/igra-v-stime-zapuskaetsya-i-srazu-zakryvaetsya-windows-10.html
+https://windowsreport.com/steam-game-instantly-closes/
 
 Для начала стоит переустановить Steam и перезагрузить компьютер. Если никаких изменений не произошло, то основными методами решения проблемы являются проверка игрового 
 оборудования, проверка целостности игровых файлов, обновление операционной системы и драйверов, проверка настроек других программ и служб (в том числе антивируса) и 
